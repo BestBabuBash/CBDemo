@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: In Da Pitt
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: For thinking about the Pitt and Pitt related things
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "I just really really Like the Pitt, especially Dr.Robby :3"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: BestBabuBash
 
 ##########
 # COLLECTION SETTINGS
